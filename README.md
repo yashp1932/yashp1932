@@ -1,4 +1,6 @@
-## Hi there 👋
+# Yash Panchal 
+
+**'Electrical Engineering Student'**
 
 Hello my name is Yash Panchal
 
